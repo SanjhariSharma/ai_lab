@@ -54,4 +54,4 @@ g.dfs(0)
 print("\n")
 
 print("BFS: ")
-g.bfs(0)      
+g.bfs(1)      
