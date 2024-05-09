@@ -50,8 +50,8 @@ g.add_edge(2, 4)
 g.add_edge(3, 4)
 
 print("DFS: ")
-g.dfs(2)
+g.dfs(0)
 print("\n")
 
 print("BFS: ")
-g.bfs(2)      
+g.bfs(0)      
